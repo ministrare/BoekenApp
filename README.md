@@ -19,8 +19,8 @@ Deze applicatie moet minimaal bevatten:
         - Schrijver
         - User_id (indien verhuurd)
     - Met de volgende methodes:
-        - Rent
-        - Checkin
+        - Rent(checkin)
+        - Checkout
 
 - User Object 
     - Met de volgende eigenschappen:
